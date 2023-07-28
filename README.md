@@ -1,4 +1,6 @@
 # Tackle Config Discover (TCD)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle-config-discover.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle-config-discover?ref=badge_shield)
+
 
 Tackle Config Discover (TCD) is the application configuration management server. It crawls application configurations from the codes and stores them as canonical format. Windup engine and Gremlin server are used for extracting application codes and managing canonical application configurations, respectively.
 
@@ -34,3 +36,7 @@ $ docker-compose up -d
 
 ## Code of Conduct
 Refer to Konveyor's Code of Conduct [here](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle-config-discover.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle-config-discover?ref=badge_large)
